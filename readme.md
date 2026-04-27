@@ -26,14 +26,14 @@ This project is a minimal AI-powered REST API built using **Go** and the **Gin f
 ### 1. Clone or create project
 
 ```bash
-mkdir ai-summarizer
-cd ai-summarizer
+mkdir Summarizer
+cd Summarizer
 ```
 
 ### 2. Initialize Go module
 
 ```bash
-go mod init ai-summarizer
+go mod init Summarizer
 ```
 
 ### 3. Install dependencies
