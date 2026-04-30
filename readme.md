@@ -135,7 +135,7 @@ Text:
 **Fix:** Use:
 
 ```
-claude-3-5-sonnet-latest
+claude-sonnet-4-20250514
 ```
 
 ---
